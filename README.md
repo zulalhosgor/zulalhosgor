@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying on City and Regional Planning
+- 🌱 I’m currently learning Web Development HTML, CSS and JavaScript
+- 👯 I’m looking to change my career path into Software Development.
+
+
 <!--
 **zulalhosgor/zulalhosgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
