@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on Urban and Regional Planning
-- 🌱 I’m currently learning Web Development HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Web Development HTML, CSS.
 
 
 <!--
